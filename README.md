@@ -134,7 +134,7 @@ public class MainActivity extends AppCompatActivity {
 
 ```
 ## _Actividad2.java_
-Por último, Actividad2 recogerá el dato seleccionado del Spinner y lo mostrara en el TextView.
+Por último, Actividad2 recogerá el dato seleccionado del Spinner y lo mostrará en el TextView.
 ```
 public class Actividad2 extends AppCompatActivity {
 
