@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ud3_Ejemplo10</string>
+    <string name="enviar">Enviar</string>
+    <string-array name="numeros">
+        <item>Uno</item>
+        <item>Dos</item>
+        <item>Tres</item>
+    </string-array>
+</resources>
