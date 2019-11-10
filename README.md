@@ -1,11 +1,11 @@
 # Ud3_Ejemplo10
 _Ejemplo 10 de la Unidad 3._ Uso de Spinner y envío entre Actividades.
 
-Vamos a crear un spinner y pasar el dato seleccionado a una Actividad usando _Intets_ explícitos con datos extras.
+Vamos a crear un Spinner y pasar el dato seleccionado a una Actividad usando _Intets_ explícitos con datos extras.
 
 ## _activity_main.xml_ y _actividad2.xml_
 En el fichero _activity_main.xml_ definiremos el Spinner y en el layout _actividad2_ símplemente tendremos un TextView donde 
-mostraremos el dato seleccionado del spinner.
+mostraremos el dato seleccionado del Spinner.
 
 _activity_main.xml_:
 ```
